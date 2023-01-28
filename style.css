@@ -36,7 +36,7 @@ body {
   }
   
   .links-header a{
-    cursor: pointer;
+    cursor:pointer;
   }
   
   img {
@@ -114,7 +114,8 @@ body {
   }
   footer {
     width: 100%;
-    background-color: #e9c9d3b5;
-    padding: 20px 0;
+    background-color: #ffe4edb5;
+    padding: 10px 0;
     text-align: center;
   }
+                
